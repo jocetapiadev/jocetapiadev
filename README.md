@@ -1,7 +1,11 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> ¡Hola! Soy Jocelyn Tapia
 
-<a href="https://linkedin.com/in/jocelyntapiaarancibia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:jocelyntapia.arancibia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+![Visitas al Perfil](https://komarev.com/ghpvc/?username=jocetapiadev&color=0077B5&style=flat-square&label=Visitas+al+Perfil)
+
+<p>
+  <a href="https://linkedin.com/in/jocelyntapiaarancibia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jocelyntapia.arancibia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 🚀 **Ingeniera Informática | Data Engineer & Data Analyst**
 
@@ -22,6 +26,13 @@ Especializada en la creación de soluciones de datos escalables, diseño de pipe
 
 ---
 
+### 🔭 Enfoque Actual
+
+* ⚡ **Actualmente:** Desarrollando pipelines de datos en **Ceptinel SpA** e integrando servicios en **AWS**.
+* 📚 **En aprendizaje:** Profundizando en **Apache Spark** para Big Data y arquitecturas Cloud.
+
+---
+
 ### 🌟 Proyectos Destacados
 
 * 🌧️ **[Predicción de Lluvia en Australia](https://github.com/jocetapiadev/mineria-de-datos-clima)**
@@ -29,4 +40,11 @@ Especializada en la creación de soluciones de datos escalables, diseño de pipe
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+### 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jocetapiadev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocetapiadev&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" height="140" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer" width="100%"/>
