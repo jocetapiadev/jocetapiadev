@@ -40,11 +40,14 @@ Especializada en la creación de soluciones de datos escalables, diseño de pipe
 
 ---
 
-### 🏆 Reconocimientos & Actividad
+### 💼 Resumen de Perfil
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jocetapiadev&theme=tokyonight&no-bg=true&margin-w=15" alt="Trofeos de Jocelyn" />
-</p>
+| Área | Especialidad |
+| --- | --- |
+| 🎓 **Educación** | Ingeniería Informática (Duoc UC) |
+| 🛢️ **Ingeniería de Datos** | ETL, Data Pipelines, PostgreSQL, MySQL, BigQuery |
+| ☁️ **Cloud & Infraestructura** | AWS (Lambda, S3, RDS, EC2) |
+| 📊 **Analítica & Negocios** | Power BI, KPIs, Google Data Studio |
 
 ---
 
