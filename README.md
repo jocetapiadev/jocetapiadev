@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! Soy Jocelyn Tapia 👋
 
-<!--
-**jocetapiadev/jocetapiadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Ingeniera Informática | Data Engineer & Data Analyst**
 
-Here are some ideas to get you started:
+Especializada en la creación de soluciones de datos escalables, diseño de pipelines ETL, optimización de modelos de bases de datos y desarrollo backend en entornos Cloud (AWS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías & Habilidades Principales
+
+* **Librerías & Lenguajes:** Python, SQL, PostgreSQL, MySQL, BigQuery.
+* **Data Engineering & ETL:** Pipelines de datos, Data Quality, Apache Spark, Pandas.
+* **Desarrollo Backend & Web:** APIs REST, Full Stack, Django, Git.
+* **Cloud & DevOps:** AWS (S3, Lambda, EC2, RDS), Azure DevOps, Linux.
+* **Analítica & Visualización:** Power BI, Google Data Studio, KPIs.
+
+---
+
+### 🌟 Proyectos Destacados
+
+* 🌧️ **[Predicción de Lluvia en Australia](https://github.com/jocetapiadev/mineria-de-datos-clima)**: Proyecto completo de ML con Random Forest, imputación de nulos, tratamiento de desbalance de clases y evaluación ROC-AUC.
+
+---
+
+📫 **Contacto Profesional**
+* **LinkedIn:** [jocelyntapiaarancibia](https://www.linkedin.com/in/jocelyntapiaarancibia/)
+* **Email:** jocelyntapia.arancibia@gmail.com
