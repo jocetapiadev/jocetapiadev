@@ -44,7 +44,7 @@ Especializada en la creación de soluciones de datos escalables, diseño de pipe
 
 | Área | Especialidad |
 | --- | --- |
-| 🎓 **Educación** | Ingeniería Informática (Duoc UC) |
+| 🎓 **Educación** | Ingeniería Informática |
 | 🛢️ **Ingeniería de Datos** | ETL, Data Pipelines, PostgreSQL, MySQL, BigQuery |
 | ☁️ **Cloud & Infraestructura** | AWS (Lambda, S3, RDS, EC2) |
 | 📊 **Analítica & Negocios** | Power BI, KPIs, Google Data Studio |
