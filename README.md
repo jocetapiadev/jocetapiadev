@@ -5,6 +5,7 @@
 <p>
   <a href="https://linkedin.com/in/jocelyntapiaarancibia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jocelyntapia.arancibia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="curriculumjocelyntapia.pdf"><img src="https://img.shields.io/badge/Descargar_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
 🚀 **Ingeniera Informática | Data Engineer & Data Analyst**
@@ -28,26 +29,28 @@ Especializada en la creación de soluciones de datos escalables, diseño de pipe
 
 ### 🔭 Enfoque Actual
 
-* ⚡ **Actualmente:** Desarrollando pipelines de datos en **Ceptinel SpA** e integrando servicios en **AWS**.
-* 📚 **En aprendizaje:** Profundizando en **Apache Spark** para Big Data y arquitecturas Cloud.
+* ⚡ **Data Engineering & Backend:** Automatización de pipelines ETL para extracción, transformación y carga de datos operativos en **Ceptinel SpA**[cite: 1].
+* ☁️ **Cloud Infrastructure:** Gestión y optimización de bases de datos e integración de servicios Cloud en **AWS** (RDS, S3, Lambda)[cite: 1].
+* 📚 **Big Data & Escalabilidad:** Profundizando en **Apache Spark** para procesamiento masivo y distribuido de datos[cite: 1].
 
 ---
 
 ### 🌟 Proyectos Destacados
 
 * 🌧️ **[Predicción de Lluvia en Australia](https://github.com/jocetapiadev/mineria-de-datos-clima)**
-  > Proyecto completo de Machine Learning con Random Forest, imputación de nulos, tratamiento de desbalance de clases y evaluación ROC-AUC.
+  > **Tech Stack:** `Python` `Scikit-Learn` `Pandas` `Imbalanced-Learn` `Jupyter`
+  > Proyecto integral de Machine Learning para anticipar precipitaciones diarias. Incluye procesamiento y limpieza avanzada de datos, imputación de valores nulos, balanceo de clases con SMOTE y evaluación del modelo mediante métricas ROC-AUC.
 
 ---
 
-### 💼 Resumen de Perfil
+### 💼 Resumen Profesional
 
 | Área | Especialidad |
 | --- | --- |
-| 🎓 **Educación** | Ingeniería Informática |
-| 🛢️ **Ingeniería de Datos** | ETL, Data Pipelines, PostgreSQL, MySQL, BigQuery |
-| ☁️ **Cloud & Infraestructura** | AWS (Lambda, S3, RDS, EC2) |
-| 📊 **Analítica & Negocios** | Power BI, KPIs, Google Data Studio |
+| 🎓 **Educación** | Ingeniería Informática (Duoc UC)[cite: 1] |
+| 🛢️ **Ingeniería de Datos** | Pipelines ETL, Data Quality, PostgreSQL, MySQL, BigQuery[cite: 1] |
+| ☁️ **Cloud & DevOps** | AWS (Lambda, S3, RDS, EC2), Azure DevOps, Git, Linux[cite: 1] |
+| 📊 **Analítica & Negocios** | Power BI, KPIs estratégicos, Google Data Studio[cite: 1] |
 
 ---
 
