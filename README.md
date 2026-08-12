@@ -40,11 +40,12 @@ Especializada en la creación de soluciones de datos escalables, diseño de pipe
 
 ---
 
-### 📊 Estadísticas
+### 🏆 Reconocimientos & Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jocetapiadev&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de Jocelyn" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocetapiadev&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jocetapiadev&theme=tokyonight&no-bg=true&margin-w=15" alt="Trofeos de Jocelyn" />
 </p>
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=80&section=footer" width="100%"/>
