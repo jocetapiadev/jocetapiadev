@@ -52,6 +52,11 @@ Especializada en la creación de soluciones de datos escalables, diseño de pipe
 * 🛢️ **[Sales Data Warehouse & Star Schema](https://github.com/jocetapiadev/sales-data-warehouse)**
   > **Tech Stack:** `PostgreSQL` `SQL` `Data Modeling` `Power BI`
   > Diseño e implementación de un modelo multidimensional en Esquema en Estrella (Star Schema) optimizado para consultas OLAP.
+  
+   🧱 **[AWS Databricks Medallion Lakehouse](https://github.com/jocetapiadev/aws-databricks-medallion-lakehouse)**
+
+  > **Tech Stack:** `AWS S3` `Databricks` `dbt` `Delta Lake` `Power BI`  
+  > Pipeline de datos *End-to-End* bajo Arquitectura Medallion (Bronze, Silver, Gold) procesado en Databricks Serverless, transformado con dbt y expuesto en un Dashboard de Power BI Service.
 
 ---
 
@@ -60,7 +65,7 @@ Especializada en la creación de soluciones de datos escalables, diseño de pipe
 | Área | Especialidad |
 | --- | --- |
 | 🎓 **Educación** | Ingeniería Informática |
-| 🛢️ **Ingeniería de Datos** | Pipelines ETL, Data Quality, PostgreSQL, MySQL, BigQuery |
+| 🛢️ **Ingeniería de Datos** Pipelines ETL, Databricks, dbt, Data Quality, Delta Lake, PostgreSQL, BigQuery |
 | ☁️ **Cloud & DevOps** | AWS (Lambda, S3, RDS, EC2), Azure DevOps, Git, Linux |
 | 📊 **Analítica & Negocios** | Power BI, KPIs estratégicos, Google Data Studio |
 
