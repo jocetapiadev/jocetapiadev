@@ -8,9 +8,9 @@
   <a href="https://raw.githubusercontent.com/jocetapiadev/jocetapiadev/main/curriculumjocelyntapia.pdf"><img src="https://img.shields.io/badge/Descargar_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
-🚀 **Ingeniera Informática | Data Engineer & Data Analyst**
+🚀 **Ingeniera Informática | Data & AI Solutions Engineer**
 
-Especializada en la creación de soluciones de datos escalables, diseño de pipelines ETL, optimización de bases de datos y desarrollo backend en entornos Cloud (AWS).
+Enfocada en construir servicios backend, flujos de datos escalables y agentes/modelos aplicados en Python y AWS, integrando APIs, buenas prácticas de pruebas y documentación técnica clara.
 
 ---
 
