@@ -36,6 +36,12 @@ Especializada en la creación de soluciones de datos escalables, diseño de pipe
 ---
 
 ### 🌟 Proyectos Destacados
+* 🚨 **[ML Anomaly & Risk Engine](https://github.com/jocetapiadev/ml-anomaly-risk-engine)**
+  > **Tech Stack:** `Python` `Pandas` `Scikit-Learn` `Matplotlib` `Pytest` Motor modular de detección de anomalías y riesgo operacional en series temporales de telemetría, con *features* temporales sin *leakage*, detección de *drift* (PSI y KS), explicabilidad por *drivers* y pruebas automatizadas.
+  > **Evidencia visual:**
+  > - [Latencia p95 y anomalías](https://raw.githubusercontent.com/jocetapiadev/ml-anomaly-risk-engine/main/artifacts/plots/latency_anomalies.png)
+  > - [Score de riesgo en el tiempo](https://raw.githubusercontent.com/jocetapiadev/ml-anomaly-risk-engine/main/artifacts/plots/risk_score_timeline.png)
+  > - [Top variables con mayor drift (PSI)](https://raw.githubusercontent.com/jocetapiadev/ml-anomaly-risk-engine/main/artifacts/plots/top_drift_psi.png)
 
 * ☁️ **[AWS Data Engineering ETL Pipeline](https://github.com/jocetapiadev/aws-etl-pipeline)**
   > **Tech Stack:** `Python` `Pandas` `AWS` `REST API`
