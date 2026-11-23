@@ -8,14 +8,17 @@
   <a href="https://raw.githubusercontent.com/jocetapiadev/jocetapiadev/main/curriculumjocelyntapia.pdf"><img src="https://img.shields.io/badge/Descargar_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
-🚀 **Ingeniera Informática | Data & AI Solutions Engineer**
+🚀 **Ingeniera Informática | Full Stack & Data/AI Engineer**
 
-Enfocada en construir servicios backend, flujos de datos escalables y agentes/modelos aplicados en Python y AWS, integrando APIs, buenas prácticas de pruebas y documentación técnica clara.
+Enfocada en construir aplicaciones web Fullstack, servicios backend, flujos de datos escalables y modelos aplicados en Python, TypeScript y AWS, integrando APIs, control de acceso, buenas prácticas de pruebas y documentación técnica clara.
 
 ---
 
 ### 🛠️ Tecnologías & Habilidades Principales
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
@@ -31,6 +34,7 @@ Enfocada en construir servicios backend, flujos de datos escalables y agentes/mo
 
 ### 🔭 Enfoque Actual
 
+- 🧩 **Full Stack & APIs:** Desarrollo de aplicaciones web con React y TypeScript, APIs REST en Node.js / Express y FastAPI, autenticación JWT y control de acceso por roles (RBAC).
 - ⚡ **Data Engineering & Analytics:** Diseño y automatización de pipelines de datos, modelado analítico y soluciones escalables en Python, SQL y Cloud.
 - ☁️ **Cloud & Lakehouse:** Gestión de bases de datos, arquitecturas de datos en **AWS** (RDS, S3, Lambda) y flujos modernos con Databricks y dbt.
 - 📚 **Big Data & ML Operacional:** Profundizando en **Apache Spark** para procesamiento distribuido y modelos de detección de anomalías y riesgo con monitoreo de *drift*.
@@ -38,6 +42,10 @@ Enfocada en construir servicios backend, flujos de datos escalables y agentes/mo
 ---
 
 ### 🌟 Proyectos Destacados
+
+- 📋 **[Portal de Solicitudes (Fullstack RBAC)](https://github.com/jocetapiadev/portal-solicitudes)**
+  > **Tech Stack:** `React` `TypeScript` `Node.js` `Express` `JWT` `Bootstrap 5` `SQL`
+  > Aplicación web Fullstack para la gestión, revisión, aprobación y auditoría de solicitudes operativas con control de acceso basado en roles (`ANALISTA`, `SUPERVISOR`, `AUDITOR`), bandeja con filtros dinámicos, exportación CSV y analítica visual en SVG.
 
 - 🚨 **[ML Anomaly & Risk Engine](https://github.com/jocetapiadev/ml-anomaly-risk-engine)**
   > **Tech Stack:** `Python` `Pandas` `Scikit-Learn` `Matplotlib` `Pytest`
@@ -74,11 +82,12 @@ Enfocada en construir servicios backend, flujos de datos escalables y agentes/mo
 | Área | Especialidad |
 | --- | --- |
 | 🎓 **Educación** | Ingeniería Informática |
-| 🤖 **IA, Agentes & ML** | Agentes de IA (`LangChain`, `LangGraph`, `CrewAI`, `LlamaIndex`, `RAG`), evaluación de modelos y anomalías, `scikit-learn`, `Python` (`FastAPI`) |
+| 🧩 **Full Stack & Backend** | `React`, `TypeScript`, `Node.js`, `Express`, `FastAPI`, `JWT`, `RBAC`, `REST APIs`, `SQL` |
+| 🤖 **IA, Agentes & ML** | Agentes de IA (`LangChain`, `LangGraph`, `CrewAI`, `LlamaIndex`, `RAG`), evaluación de modelos y anomalías, `scikit-learn`, `Python` |
 | 🛢️ **Ingeniería de Datos** | Pipelines ETL (`AWS Glue`, `Python`, `SQL`), `Databricks`, `dbt`, `Data Quality`, `Delta Lake`, `PostgreSQL`, `BigQuery` |
-| ☁️ **Cloud, APIs & DevOps** | `AWS` (`Lambda`, `S3`, `RDS`, `EC2`), `Docker`, `Pytest`, `Postman`, `Azure DevOps`, `Git`, `Linux` |
+| ☁️ **Cloud & DevOps** | `AWS` (`Lambda`, `S3`, `RDS`, `EC2`), `Docker`, `Pytest`, `Postman`, `Azure DevOps`, `Git`, `Linux` |
 | 📊 **Analítica & Negocios** | `Power BI` (`DAX`), `KPIs` estratégicos, `Looker` / `Looker Studio`, `Scrum` |
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=80§ion=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=80&section=footer" width="100%"/>
